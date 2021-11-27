@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anshulc55/mynodejsapplication.git"
+    "url": "git+https://github.com/ssoogur/mynodejsapplication.git"
   },
   "keywords": [
     "nodejs",
@@ -17,9 +17,9 @@
   "author": "anshulawscodepipeline",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anshulc55/mynodejsapplication/issues"
+    "url": "https://github.com/ssoogur/mynodejsapplication/issues"
   },
-  "homepage": "https://github.com/anshulc55/mynodejsapplication#readme",
+  "homepage": "https://github.com/ssoogur/mynodejsapplication#readme",
   "dependencies": {
     "hapi": "^13.3.0",
     "pg": "^4.5.5",
